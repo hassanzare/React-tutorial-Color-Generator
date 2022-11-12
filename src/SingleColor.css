@@ -1,0 +1,14 @@
+.color-light .color-value {
+  color: #fff;
+}
+.color-light .percent-value {
+  color: #fff;
+}
+.percent-value {
+  margin-bottom: 0;
+  color: hsl(209, 61%, 16%);
+}
+.color-value {
+  color: hsl(209, 61%, 16%);
+  margin-bottom: 0;
+}
